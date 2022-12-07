@@ -30,15 +30,15 @@
 
 
 //Verilmis n ve m (n<m) ededleri arasindaki tek ededlerin cemini tapin.
-////int a = 27;
-////int b = 40;
-////int sum = 0;
-////for (int i = 0; i <= b; i++)
-////    if (a < b && i % 2 == 1)
-////    {
-////        sum += i;
-////    }
-////Console.WriteLine(sum);
+//int a = 27;
+//int b = 35;
+//int sum = 0;
+//for (int i = a; i <=b; i++)
+//    if (i % 2 == 1)
+//    {
+//        sum += i;
+//    }
+//Console.WriteLine(sum);
 
 
 //Verilmish arrayin icindeki tek ededlerin cemini tapin
